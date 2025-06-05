@@ -1,0 +1,20 @@
+2025-06-05 22:18:13,804 - INFO - Starting Linear Regression pipeline.
+2025-06-05 22:18:13,816 - INFO - Model training completed.
+2025-06-05 22:18:13,818 - INFO - Mean Squared Error (MSE): 2.1249999999999964
+2025-06-05 22:18:13,818 - INFO - R² Score: 0.997085048010974
+2025-06-05 22:18:14,102 - INFO - All steps completed successfully.
+2025-06-05 22:28:30,057 - INFO - Starting Linear Regression pipeline.
+2025-06-05 22:28:30,063 - INFO - Model training completed.
+2025-06-05 22:28:30,064 - INFO - Mean Squared Error (MSE): 2.1249999999999964
+2025-06-05 22:28:30,064 - INFO - R² Score: 0.997085048010974
+2025-06-05 22:28:30,355 - INFO - All steps completed successfully.
+2025-06-05 22:29:28,750 - INFO - Starting Linear Regression pipeline.
+2025-06-05 22:29:28,756 - INFO - Model training completed.
+2025-06-05 22:29:28,757 - INFO - Mean Squared Error (MSE): 2.1249999999999964
+2025-06-05 22:29:28,757 - INFO - R² Score: 0.997085048010974
+2025-06-05 22:29:29,022 - INFO - All steps completed successfully.
+2025-06-05 22:30:21,828 - INFO - Starting Linear Regression pipeline.
+2025-06-05 22:30:21,834 - INFO - Model training completed.
+2025-06-05 22:30:21,835 - INFO - Mean Squared Error (MSE): 2.1249999999999964
+2025-06-05 22:30:21,835 - INFO - R² Score: 0.997085048010974
+2025-06-05 22:30:22,135 - INFO - All steps completed successfully.
